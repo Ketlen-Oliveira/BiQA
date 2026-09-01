@@ -1,0 +1,8 @@
+{
+  "name": "BiQA - API Explorer",
+  "description": "Explorador e buscador de utterances e conteúdos relacionados da API BiQA com busca única, busca em lote e exportação.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
